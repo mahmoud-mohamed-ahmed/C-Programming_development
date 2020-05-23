@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std; 
-//program to accept 6 gradr from student and calculate the sumation
+//program to accept 6 grads from student and calculate the sumation
 int main()//by use for loop 
 {
 	int grade=0 ,sum=0;
